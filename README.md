@@ -9,12 +9,12 @@ __2. Project Goals__
 * Apply CSS3 for stylistic presentation and layout.
 * Implement JavaScript to provide interactive elements.
 * Ensure the website's responsiveness across a range of devices.
-* Deploy the website, utilizing a platform such as GitHub Pages, Netlify, or Vercel
+* Deploying the site utilizing a platform Netlify (Link https://mrfixit.netlify.app/)
 
 __3. Technical Specifications__
 * HTML5: The Website employs semantic HTML5 elements (e.g., <header>, <nav>, <main>, <article>, <footer>).
-* CSS3: Applies modern CSS3 features [e.g., Flexbox or Grid layout, transitions, animations, and media queries].
-* JavaScript: Implements interactive elements [e.g., form validation, image sliders, and dynamic content].
+* CSS3: Applies modern CSS3 features: Grid layout, transitions, animations, and media queries].
+* JavaScript: Implements interactive elements: form validation and dynamic content].
 * Responsive Design: The website adapts to varying screen sizes, including those of desktop computers, tablets, and mobile phones.
 * Deployment: The website is deployed to a public hosting system, Nelify. 
 
@@ -42,6 +42,6 @@ __6. Technologies Utilized.__
 
 __7. Deployment and Maintenance__
 The website will be deployed, using Nelify
-Link: 
+Link: https://mrfixit.netlify.app/
 
 Author: David Arwa. 
